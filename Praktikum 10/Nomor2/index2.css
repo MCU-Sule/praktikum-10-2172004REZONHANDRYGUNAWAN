@@ -1,0 +1,56 @@
+.X{
+    border: 1px rgb(0, 0, 0 )solid;
+    width: 40px;
+    height: 40px;
+}
+.XX{
+    border: 1px rgb(0, 0, 0 )solid;
+    width: 40px;
+    height: 40px;
+    left: 3.5%;
+    top: 9.3%;
+    position: absolute;
+}
+.XXI{
+    border: 1px rgb(0, 0, 0 )solid;
+    width: 40px;
+    height: 40px;
+    left: 3.5%;
+    top: 15%;
+    position: absolute;
+}
+.XXII{
+    border: 1px rgb(0, 0, 0 )solid;
+    width: 40px;
+    height: 40px;
+    left: 3.5%;
+    top: 21%;
+    position: absolute;
+}
+.XXX{
+    border: 1px rgb(0, 0, 0 )solid;
+    width: 40px;
+    height: 40px;
+    left: 6.3%;
+    top: 9.3%;
+    position: absolute;
+}
+.XXXI{
+    border: 1px rgb(0, 0, 0 )solid;
+    width: 40px;
+    height: 40px;
+    left: 6.3%;
+    top: 15%;
+    position: absolute;
+}
+.XXXII{
+    border: 1px rgb(0, 0, 0 )solid;
+    width: 40px;
+    height: 40px;
+    left: 6.3%;
+    top: 21%;
+    position: absolute;
+}
+.H1{
+    margin: 50%;
+}
